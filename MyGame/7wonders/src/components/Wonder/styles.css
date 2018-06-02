@@ -1,0 +1,45 @@
+/*BOOTSTRAP OVERRIDES FOR MODAL BORDER*/
+
+.modal-content {
+    border-radius: 11px !important;
+    margin-top: 10vh;
+}
+
+.modal-header {
+    border-top-right-radius: 10px !important;
+    border-top-left-radius: 10px !important;
+}
+
+.modal-body {
+    border-bottom-right-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+    min-height: 30vh;
+}
+
+
+/*
+ * CSS FOR A Relatively FULL WIDTH MODAL
+ * INTENDED FOR THE LEARNING MAP
+ */
+
+.full-width-modal {
+    width: 50%;
+    /* height: 90vh; */
+}
+
+.close {
+    color: #FFF;
+    opacity: 1;
+}
+
+.close:hover {
+    color: #FFF;
+}
+
+#contained-modal-title-lg {
+    font-family: Merck;
+}
+
+.card:hover {
+    transform: scale(1.2)
+}

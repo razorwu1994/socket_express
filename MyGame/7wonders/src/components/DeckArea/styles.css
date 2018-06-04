@@ -1,0 +1,21 @@
+.bottomDeck {
+    width: 100vw;
+    height: fit-content;
+    border-width: 2px;
+    border-style: solid;
+    border-color: coral;
+    position: fixed;
+    bottom: 0;
+    padding: 15px;
+}
+
+.upDeck {
+    width: 100vw;
+    height: fit-content;
+    border-width: 2px;
+    border-style: solid;
+    border-color: coral;
+    position: fixed;
+    top: 0;
+    padding: 15px;
+}
